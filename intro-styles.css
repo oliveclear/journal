@@ -103,7 +103,7 @@ body {
     color: var(--text-dark);
     background-color: var(--bg-white);
     overflow-x: hidden;
-    padding-top: 80px; /* Account for fixed navbar height */
+    padding-top: 75px; /* Account for fixed navbar height */
 }
 
 .container {
